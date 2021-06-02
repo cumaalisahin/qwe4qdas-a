@@ -1,0 +1,108 @@
+Uri: https://rokkit.glitch.me/
+File Name: H:\website copy\rokkit.glitch.me\index.htm
+Content Type: text/html
+
+Uri: https://rokkit.glitch.me/assets/favicon.png
+File Name: H:\website copy\rokkit.glitch.me\assets\favicon.png
+Content Type: image/png
+
+Uri: https://rokkit.glitch.me/css/bootstrap.min.css
+File Name: H:\website copy\rokkit.glitch.me\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://rokkit.glitch.me/css/main.css
+File Name: H:\website copy\rokkit.glitch.me\css\main.css
+Content Type: text/css
+
+Uri: https://rokkit.glitch.me/css/now-ui-kit.css
+File Name: H:\website copy\rokkit.glitch.me\css\now-ui-kit.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&display=swap
+File Name: H:\website copy\rokkit.glitch.me\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap
+File Name: H:\website copy\rokkit.glitch.me\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300,400,600,700,800,900&display=swap
+File Name: H:\website copy\rokkit.glitch.me\css-2.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+File Name: H:\website copy\rokkit.glitch.me\ajax\libs\font-awesome\5.15.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://rokkit.glitch.me/sss.html
+File Name: H:\website copy\rokkit.glitch.me\sss.html
+Content Type: text/html
+
+Uri: https://top.gg/bot/673564661932752978
+File Name: H:\website copy\rokkit.glitch.me\bot\673564661932752978.html
+Content Type: text/html
+
+Uri: https://top.gg/bot/673564661932752978/vote
+File Name: H:\website copy\rokkit.glitch.me\bot\673564661932752978\vote.html
+Content Type: text/html
+
+Uri: https://twitter.com/Nouridio
+File Name: H:\website copy\rokkit.glitch.me\Nouridio.html
+Content Type: text/html
+
+Uri: https://github.com/maven0571
+File Name: H:\website copy\rokkit.glitch.me\maven0571.html
+Content Type: text/html
+
+Uri: https://github.com/2qke
+File Name: H:\website copy\rokkit.glitch.me\2qke.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+File Name: H:\website copy\rokkit.glitch.me\ajax\libs\jquery\3.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: H:\website copy\rokkit.glitch.me\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://rokkit.glitch.me/assets/menuIcon.svg
+File Name: H:\website copy\rokkit.glitch.me\assets\menuIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://rokkit.glitch.me/assets/BotLogo.png
+File Name: H:\website copy\rokkit.glitch.me\assets\BotLogo.png
+Content Type: image/png
+
+Uri: https://rokkit.glitch.me/assets/BotLogoWord.png
+File Name: H:\website copy\rokkit.glitch.me\assets\BotLogoWord.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/jquery-3.3.1.slim.min.js
+File Name: H:\website copy\rokkit.glitch.me\jquery-3.3.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
+File Name: H:\website copy\rokkit.glitch.me\ajax\libs\popper.js\1.14.7\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
+File Name: H:\website copy\rokkit.glitch.me\bootstrap\4.3.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://rokkit.glitch.me/js/now-ui-kit.min.js
+File Name: H:\website copy\rokkit.glitch.me\js\now-ui-kit.min.js
+Content Type: application/javascript
+
+Uri: https://rokkit.glitch.me/assets/wavy-light-by-nouridio.svg
+File Name: H:\website copy\rokkit.glitch.me\assets\wavy-light-by-nouridio.svg
+Content Type: image/svg+xml
+
+Uri: https://discord.com/invite/kjhAvwb
+File Name: H:\website copy\rokkit.glitch.me\invite\kjhAvwb.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=673564661932752978&scope=bot&permissions=2146958847
+File Name: H:\website copy\rokkit.glitch.me\oauth2\authorize.html
+Content Type: text/html
+
